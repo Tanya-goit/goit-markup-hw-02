@@ -61,6 +61,15 @@ a {
   background-color: #2e2f42;
 }
 
+.main-page-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
 .main-page-title {
   font-size: 56px;
   line-height: 1.07;
@@ -81,4 +90,20 @@ a {
 .main-page-btn:hover,
 .main-page-btn:focus {
   background-color: #4d5ae5;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
