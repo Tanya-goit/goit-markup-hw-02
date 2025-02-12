@@ -159,13 +159,12 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
-  background-color: #404bbf;
   cursor: pointer;
 }
 
 .main-page-btn:hover,
 .main-page-btn:focus {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
 }
 
 .page-footer {
