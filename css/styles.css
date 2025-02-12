@@ -61,7 +61,71 @@ a {
   background-color: #2e2f42;
 }
 
-.main-page-team {
+.strategy-title-two,
+.punctuality-title-two,
+.diligence-title-two,
+.technologies-title-two {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-our {
+  background-color: #f4f4fd;
+}
+
+.team-member,
+.member-tom,
+.member-camila,
+.member-daniel {
+  border-radius: 0 0 4px 4px;
+  padding: 0px 0px 32px 0px;
+  width: 264px;
+  height: 380px;
+  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+  background-color: #fff;
+}
+
+.team-member-mark,
+.team-member-tom,
+.team-member-camila,
+.team-member-daniel {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-member-des,
+.team-member-dev,
+.team-member-market,
+.team-member-desig {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+.strategy-title-pgg,
+.diligence-title-pgg,
+.punctuality-title-pgg,
+.technologies-title-pgg {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.main-page-team,
+.main-page-portfolio {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -71,6 +135,7 @@ a {
 }
 
 .main-page-title {
+  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -85,6 +150,8 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  background-color: #404bbf;
+  cursor: pointer;
 }
 
 .main-page-btn:hover,
@@ -107,4 +174,40 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-gi
+
+.main-page-ban,
+.main-page-payment,
+.main-page-meditation,
+.main-page-service,
+.main-page-lliust,
+.main-page-courses {
+  width: 360px;
+  height: 420px;
+  background-color: #fff;
+}
+
+.main-page-banking,
+.main-page-cashless,
+.main-page-meditation,
+.main-page-taxi,
+.main-page-screen,
+.main-page-online {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.page-clas-king,
+.page-clas-ting,
+.page-clas-med,
+.page-clas-mark,
+.page-clas-des,
+.page-clas-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
